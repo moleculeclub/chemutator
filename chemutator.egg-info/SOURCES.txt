@@ -1,0 +1,10 @@
+LICENSE
+README.md
+setup.py
+chemutator/__init__.py
+chemutator/evo.py
+chemutator/evo_utils.py
+chemutator.egg-info/PKG-INFO
+chemutator.egg-info/SOURCES.txt
+chemutator.egg-info/dependency_links.txt
+chemutator.egg-info/top_level.txt
