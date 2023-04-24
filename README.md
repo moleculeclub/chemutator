@@ -1,2 +1,2 @@
 # chemutator
-Python package for mutation and evolution of molecules. Depends heavily on remit.
+Python package for mutation and evolution of molecules. Depends heavily on rdkit.
